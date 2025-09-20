@@ -1,0 +1,87 @@
+
+😎 Пробив – получение личной информации о пользователе, не спрашивая её у пользователя. В основном пробив используют для вымогания денег. Также с этими данными можно сделать всё что угодно. Например сватнуть.
+
+Ресурсы будут ниже
+
+😎 1. Поиск по лицу : 
+http://search4faces.com
+https://yandex.ru/images/search
+http://betaface.com/demo_old.html
+https://ok.ru/search?st.mode=Users&st.vpl.mini=fa
+https://online-vk.ru
+
+😎 2. Поиск по почте : 
+https://fth.so
+https://bighack.me
+https://bonday.xyz
+https://vipchecker.ru
+https://rusfinder.pro
+
+😎 3. Поиск по номеру : 
+https://checkusernames.com
+https://8sot.su/ru/codes7
+https://t.me/GetPhone_bot
+https://github.com/sundowndev/PhoneInfoga
+https://t.me/InfoVkUser_bot
+
+😎 4. Поиск по ник-нейму
+https://github.com/s0md3v/Photon
+https://github.com/sherlock-project/sherlock
+https://namechk.com/
+https://checkusernames.com/
+https://rusfinder.pro
+
+😎 5. Поиск по IP-адресу
+http://spys.ru/
+https://check-host.net
+https://iknowwhatyoudownload.com/ru/peer/
+https://www.proxydocker.com/en/iplookup/
+https://fth.so
+BrowserScan
+Ресурсы без определенной группы так как хаминту лень
+    https://leak.sx
+ •  http://scylla.sh
+ •  https://intelx.io
+ •  https://4iq.com
+ •  https://leaked.site
+ •  https://hashes.org
+ •  https://leakcheck.io
+ •  https://vigilante.pw
+ •  https://leakcheck.net
+ •  https://weleakinfo.to
+ •  https://leakcorp.com
+ •  https://leakpeek.com
+ •  https://rslookup.com
+ •  https://snusbase.com
+ •  https://ghostproject.fr
+ •  https://leakedsource.ru
+ •  https://leak-lookup.com
+ •  https://nuclearleaks.com
+ •  https://private-base.info
+ •  https://haveibeensold.app
+ •  https://breachchecker.com
+ •  https://www.dehashed.com
+ •  http://scatteredsecrets.com
+ •  https://haveibeenpwned.com
+ •  https://haveibeenpwned.com
+ •  https://services.normshield.com
+ •  https://joe.black/leakengine.html
+Бесплатный курс по взлому: https://bit.ly/2Vja5LL
+Курс по этичному хакингу с NMAP : https://t.me/Social_engineering/846
+Start Kali Linux : https://www.youtube.com/watch?v=_As-rx86f-4
+Shodan Eye: it clone https://github.com/BullsEye0/shodan-eye.git
+cd shodan-eye
+pip3 install -r requirements.txt
+Видео мануал по Шудану: https://youtu.be/bDfO2CpAdwo
+Ваш помощник в осинт и пентест разведке - https://github.com/1N3/Sn1per
+Боты в тг: @ip_score_checkerbot , @HamSher_bot , @VektorInfo
+TIdos Framework : https://kali.tools/?p=4292 https://github.com/0xInfection/TIDoS-Framework
+Походный арсенал пентестера: https://awesomehacking.org/ 
+git clone --recursive https://github.com/jekil/awesome-hacking.git
+
+ТГК С ОТДЕЛЬНЫМ ОБУЧЕНИЕМ ОСИНТУ ПЕНТЕСТУ ИБ И КОДИНГУ
+https://t.me/cybersec_academy
+https://t.me/lab_hack
+https://t.me/Social_engineering
+https://t.me/SQLPortal
+https://t.me/PythonPortal
