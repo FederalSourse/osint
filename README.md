@@ -3,7 +3,7 @@ OSINT training, OSINT (Open Source Intelligence) is the process of gathering and
 
 # Обучающие материалы по OSINT и разведке
 
-![OSINT Banner](https://via.placeholder.com/800x200.png?text=OSINT+и+Разведывательные+Услуги)
+![OSINT Banner](https://cs15.pikabu.ru/post_img/big/2025/01/15/6/1736929174161136158.jpg)
 
 ## 📚 Содержание
 
