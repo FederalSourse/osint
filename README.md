@@ -35,11 +35,10 @@ OSINT training, OSINT (Open Source Intelligence) is the process of gathering and
 
 ### 📋 Мануалы и руководства
 - [Основное руководство по OSINT](https://github.com/FederalSourse/osint/blob/main/intelligence%20service.txt)
-- [Методы поиска в социальных сетях](manuals/social-media-search.md)
-- [Анализ изображений и метаданных](manuals/image-analysis.md)
-- [Техники геолокации](manuals/geolocation.md)
-- [Юридические аспекты OSINT](manuals/legal-aspects.md)
-
+- [логическая цепочка](https://github.com/FederalSourse/osint/blob/main/logical%20chain.txt)
+- [Мануал](https://github.com/FederalSourse/osint/blob/main/manual.txt).
+- [социальная инженерия](https://github.com/FederalSourse/osint/blob/main/social%20engineering.txt)
+- [полезные сайты OSINT](https://github.com/FederalSourse/osint/blob/main/useful%20websites.txt)
 ### 🎥 Видеоуроки
 - [Плейлист с базовыми уроками](https://youtu.be/nJ30BExZlEw?si=ON8ZTN8lZr6DOsNL)
 
